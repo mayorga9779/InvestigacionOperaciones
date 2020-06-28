@@ -1,0 +1,87 @@
+<html>
+<head><title>SOLUCION</title></head>
+<body>
+<table border>
+<tr>
+<th>X</th>
+<th>Y</th>
+<th>2.0X + 1.0Y <= 100.0</th>
+<th>1.0X + 1.0Y <= 80.0</th>
+<th>1.0X + 0.0Y <= 40.0</th>
+<th>3.0X + 2.0Y = 0.0</th>
+</tr>
+<tr>
+<td>50.0</td>
+<td>0.0</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightSalmon">NO FACTIBLE</td>
+<td>150.0</td>
+<tr>
+<tr>
+<td>0.0</td>
+<td>100.0</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightSalmon">NO FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td>200.0</td>
+<tr>
+<tr>
+<td>80.0</td>
+<td>0.0</td>
+<td BGCOLOR = "LightSalmon">NO FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightSalmon">NO FACTIBLE</td>
+<td>240.0</td>
+<tr>
+<tr>
+<td>0.0</td>
+<td>80.0</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td>160.0</td>
+<tr>
+<tr>
+<td>40.0</td>
+<td>0.0</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td>120.0</td>
+<tr>
+<tr>
+<td>0.0</td>
+<td>0.0</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td>0.0</td>
+<tr>
+<tr>
+<td>20.0</td>
+<td>60.0</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td>180.0</td>
+<tr>
+<tr>
+<td>40.0</td>
+<td>20.0</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td>160.0</td>
+<tr>
+<tr>
+<td>40.0</td>
+<td>40.0</td>
+<td BGCOLOR = "LightSalmon">NO FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td BGCOLOR = "LightGreen">FACTIBLE</td>
+<td>200.0</td>
+<tr>
+</table>
+</body>
+</html>
